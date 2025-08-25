@@ -10,8 +10,11 @@ This folder gives you a ready-to-run environment for your 35–70 minute live co
 ## Quick Start (Local)
 ```bash
 # 1) Create & activate a fresh venv (Windows uses Scripts\activate)
-python -m venv interview-env
-source interview-env/bin/activate
+$ python -m venv interview-env
+# For Mac / Linux
+$ source interview-env/Scripts/activate
+# For Windows CMD
+$ interview-env-frank\Scripts\activate.bat
 
 # 2) Install deps (if PyTorch is too large for your machine, comment it out in requirements.txt)
 pip install -r requirements.txt
