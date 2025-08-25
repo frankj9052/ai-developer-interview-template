@@ -14,7 +14,7 @@ $ python -m venv interview-env
 # For Mac / Linux
 $ source interview-env/Scripts/activate
 # For Windows CMD
-$ interview-env-frank\Scripts\activate.bat
+$ interview-env\Scripts\activate.bat
 
 # 2) Install deps (if PyTorch is too large for your machine, comment it out in requirements.txt)
 pip install -r requirements.txt
