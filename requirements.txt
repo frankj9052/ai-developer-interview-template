@@ -1,0 +1,11 @@
+# Pin NumPy to 1.x to avoid ABI issues with compiled extensions (e.g., torch)
+numpy==1.26.4
+
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# If you need NLP baselines only, you can comment out the two lines below.
+transformers==4.43.3
+torch==2.3.1
+
+jupyter==1.1.1

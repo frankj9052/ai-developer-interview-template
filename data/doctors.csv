@@ -1,0 +1,9 @@
+id,name,specialty,city,rating,notes
+1,Dr. Wang,Dermatology,Toronto,4.5,Acne; eczema; psoriasis
+2,Dr. Smith,Cardiology,Ottawa,4.2,Arrhythmia; hypertension
+3,Dr. Lee,Dermatology,Toronto,4.8,Mole checks; skin cancer screening
+4,Dr. Patel,Pediatrics,Montreal,4.0,Well child care; vaccines
+5,Dr. Chen,Family Medicine,Toronto,4.6,General practice; chronic disease
+6,Dr. Garcia,Orthopedics,Vancouver,4.1,Knee pain; fractures
+7,Dr. Brown,Dermatology,Ottawa,4.3,Rashes; dermatitis
+8,Dr. Nguyen,Neurology,Toronto,4.4,Headaches; seizures
